@@ -10,4 +10,5 @@ Este ejemplo es el mismo que hemos utilizado hasta ahora, pero el código tiene 
 
 La clases que implementan IPrinter, como ConsolePrinter, dependen de la clase Recipe: un mensaje string GetTextToPrint() es enviado a una instancia de Recipe en el método void PrintRecipe(Recipe).
 
-➡️ **Apliquen el principio de inversión de dependencia para que la clase ConsolePrinter no dependa de la clase Recipe.**
+➡️ **Apliquen el principio de inversión de dependencia par
+a que la clase ConsolePrinter no dependa de la clase Recipe.**
